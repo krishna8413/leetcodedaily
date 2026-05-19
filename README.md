@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/krishna8413/leetcodedaily/tree/master/0053-maximum-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishna8413/leetcodedaily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1345-jump-game-iv](https://github.com/krishna8413/leetcodedaily/tree/master/1345-jump-game-iv) |
 ## Binary Search
@@ -19,4 +20,12 @@
 |  |
 | ------- |
 | [1345-jump-game-iv](https://github.com/krishna8413/leetcodedaily/tree/master/1345-jump-game-iv) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/krishna8413/leetcodedaily/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/krishna8413/leetcodedaily/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
