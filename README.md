@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/krishna8413/leetcodedaily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/krishna8413/leetcodedaily/tree/master/0053-maximum-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishna8413/leetcodedaily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1345-jump-game-iv](https://github.com/krishna8413/leetcodedaily/tree/master/1345-jump-game-iv) |
@@ -13,6 +14,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/krishna8413/leetcodedaily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishna8413/leetcodedaily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
