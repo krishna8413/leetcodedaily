@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/krishna8413/leetcodedaily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/krishna8413/leetcodedaily/tree/master/0053-maximum-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishna8413/leetcodedaily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1340-jump-game-v](https://github.com/krishna8413/leetcodedaily/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/krishna8413/leetcodedaily/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishna8413/leetcodedaily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/krishna8413/leetcodedaily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishna8413/leetcodedaily/tree/master/0053-maximum-subarray) |
+| [1340-jump-game-v](https://github.com/krishna8413/leetcodedaily/tree/master/1340-jump-game-v) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/krishna8413/leetcodedaily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [1340-jump-game-v](https://github.com/krishna8413/leetcodedaily/tree/master/1340-jump-game-v) |
 <!---LeetCode Topics End-->
